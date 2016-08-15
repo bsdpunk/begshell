@@ -1,0 +1,8 @@
+setup.py
+bs/__init__.py
+bs/bs.py
+bs.egg-info/PKG-INFO
+bs.egg-info/SOURCES.txt
+bs.egg-info/dependency_links.txt
+bs.egg-info/entry_points.txt
+bs.egg-info/top_level.txt
